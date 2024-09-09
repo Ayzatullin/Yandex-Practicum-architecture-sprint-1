@@ -31,3 +31,6 @@ Single SPA - потому что действия происходят на Main
 
 
 ## Задание 2. Декомпозиция веб-приложения на Django на микросервисы
+
+[Ссылка](https://app.diagrams.net/#G1IclszdfxXk4nLKDgHxq8Kcjvqy6oLSw3#%7B%22pageId%22%3A%22BleSmaJVXqo2yb7Co1eL%22%7D) на схему draw.io
+(решение на 2 странице)
