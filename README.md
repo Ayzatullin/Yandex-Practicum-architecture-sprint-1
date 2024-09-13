@@ -33,6 +33,7 @@ Single SPA - потому что действия происходят на Main
 
 ## Задание 2. Декомпозиция веб-приложения на Django на микросервисы
 [Ссылка на Google Drive](https://drive.google.com/file/d/1IclszdfxXk4nLKDgHxq8Kcjvqy6oLSw3/view?usp=sharing)
+
 В корень репозитория приложил файл - arch_template_task2.drawio
 
 [Ссылка](https://app.diagrams.net/#G1IclszdfxXk4nLKDgHxq8Kcjvqy6oLSw3#%7B%22pageId%22%3A%22BleSmaJVXqo2yb7Co1eL%22%7D) на схему draw.io
